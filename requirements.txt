@@ -1,0 +1,30 @@
+# Core
+pyspark==3.5.0
+delta-spark==3.0.0
+
+# Data Quality
+great-expectations==0.18.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-mock==3.11.0
+
+# Code Quality
+black==23.7.0
+flake8==6.1.0
+mypy==1.5.0
+pylint==2.17.0
+bandit==1.7.5
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+requests==2.31.0
+
+# Databricks CLI
+databricks-cli==0.18.0
+
+# Type hints
+types-requests==2.31.0
+types-PyYAML==6.0.12
