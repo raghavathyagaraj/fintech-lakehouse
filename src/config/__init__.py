@@ -1,5 +1,3 @@
-"""Configuration Module."""
-
 import os
 from typing import Union
 from .dev import DevConfig
